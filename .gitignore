@@ -1,0 +1,5 @@
+/.env
+/hotel_logging.log
+/bot_sessions.db
+
+
