@@ -5,6 +5,7 @@ import atexit
 from dotenv import load_dotenv
 from loguru import logger
 from bot_database import create_tables
+
 load_dotenv()
 my_token = os.getenv('BOT_TOKEN')
 my_rapi = os.getenv('RAPI_TOKEN')
